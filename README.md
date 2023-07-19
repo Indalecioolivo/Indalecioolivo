@@ -2,6 +2,7 @@
   <h1>Olá, eu sou o Indalecio Neto</h1>
   <p>😬 Sou desenvolvedor web Full Stack </p>
   <p>😃 Pronomes: ele/dele </p>
+  <p> Sou um mineiro morando no estado de São Paulo, amo pão de queijo, e meu principal hobby é jogar/assistir Counter-Strike</p>
 </div>
 
 ##
