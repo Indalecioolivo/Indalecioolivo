@@ -24,7 +24,7 @@
 
 ##
 
-<p>Minhas Redes:</p>
+<span>Minhas Redes:</span>
 <a href="https://www.linkedin.com/in/indalecio-olivo-037819187/" target="_blank">
   <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
