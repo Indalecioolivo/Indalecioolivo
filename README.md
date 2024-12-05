@@ -5,7 +5,6 @@
 
 
 <div>
-  <a href="https://github.com/indalecioolivo/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Indalecioolivo"/>
-  
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Indalecioolivo&theme=dark&include_all_commits=true&show_icons=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indalecioolivo&theme=dark"/>
 </div>
