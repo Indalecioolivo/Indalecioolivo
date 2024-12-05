@@ -5,5 +5,7 @@
 
 
 <div>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Indalecioolivo)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/indalecioolivo/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Indalecioolivo"/>
+  
 </div>
