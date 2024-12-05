@@ -35,3 +35,5 @@
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" />
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
 </div>
+
+<h2>Aqui estão as redes sociais que utilizo:</h2>
