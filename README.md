@@ -44,3 +44,6 @@
   <a href="https://www.instagram.com/netoindalecio/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:indalecioolivo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
+
+<h2>Acesse meu portfólio para ver alguns de meus projetos:</h2>
+<a href="portfolio-indalecio-olivos-projects.vercel.app"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
